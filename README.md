@@ -1,6 +1,6 @@
 # MathBot
 
-[![MathBot](https://raw.githubusercontent.com/attogram/mathbot/master/mathbot.png)](https://github.com/attogram/mathbot)
+[![MathBot](https://raw.githubusercontent.com/attogram/attogram-docs/master/mathbot/mathbot.png)](https://github.com/attogram/mathbot)
 
 MathBot - basic math via JavaScript for an AIML web bot 
 
